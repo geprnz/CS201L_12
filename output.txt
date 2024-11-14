@@ -1,0 +1,25 @@
+Factorial of 4 = 24
+Factorial of 15 = 2004310016
+Record contains invalid values: factorialR,-15
+Factorial of 0 = 1
+Record contains invalid values: factorialR,abc
+Factorial of 22 = -522715136
+101 is a prime number.
+Record contains invalid values: isPrimeR,abc
+29 is a prime number.
+100 is not a prime number.
+163 is a prime number.
+1001 is not a prime number.
+abccba is a palindrome.
+d is a palindrome.
+tacocat is a palindrome.
+goroog is not a palindrome.
+The current command: bogusCommandR is invalid.
+The sum of the values: 1 2 3 4 5 6 7 8 9 10 is 55
+The sum of the values: 5 is 5
+The sum of the values: 5 6 7 is 18
+The value r is invalid.
+The string thestring in reverse is: gnirtseht
+The string abcdef in reverse is: fedcba
+The string 123456 in reverse is: 654321
+The string d in reverse is: d
